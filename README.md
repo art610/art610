@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artem Zhelonkin (@artif467)
+- 👋 Hi, I’m Artem Zhelonkin (@artif467 or @art610)
 - 👀 I’m interested in Linux, Python, Bash, DevOps (Git, Docker, Ansible, AWS, GCP), prototypes on Wordpress (but not PHP) and Ghost CMS, Machine Learning, Robotics
 - 🌱 I’m currently learning ML models
 - 💞️ I’m just trying to make our world better
