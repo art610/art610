@@ -1,5 +1,4 @@
 ✋ Hi, I'm Artem Zhelonkin (@artif467 or @art610)
-❗ There are projects in my repositories on GitHub: https://github.com/art610
 👀 I'm interested in Analytics, Python3, Flask (microservices, API, jinja2, celery), Java, Linux, Bash, Networks, PostgreSQL, Redis, NGINX, Git (GitHub Flow, Semantic Versioning, Conventional Commits, etc.), Github Actions, Docker.
 🌱 I prefer AWS, GCP, Selectel/VScale as Cloud Services Providers or Cloudflare Pages for simple static sites.
 📫 How to reach me: tyo3436@gmail.com
