@@ -1,19 +1,17 @@
-- ✋ Hi, I'm Artem Zhelonkin (@artif467 or @art610)
-- 👀 I'm interested in Analytics, Python3, Flask (microservices, API, jinja2, celery), Java, Linux, Bash, Networks, PostgreSQL, Redis, NGINX, Git (GitHub Flow, Semantic Versioning, Conventional Commits, etc.), Github Actions, Docker.
-- 🌱 I prefer AWS, GCP, Selectel/VScale as Cloud Services Providers or Cloudflare Pages for simple static sites.
-- 📫 How to reach me: tyo3436@gmail.com
-- 💪 Good health and best luck, everyone!
+👋 Hello! I'm Artem Zhelonkin (@art610)
 
-P.S. If you do not see my development activity in this account, I'm working with another private account on GitLab or BitBucket. Sorry, but some work should be confidential.
+👀 In the vast and ever-evolving landscape of technology and development, I stand as a dedicated and proficient navigator. My expertise is fueled by a diverse toolkit, meticulously honed to engineer cutting-edge solutions. Delve into the specifics:
 
----
-- ✋ Привет, меня зовут Артём Желонкин (подписываюсь как @artif467 или @art610).
-- ❗ Большинство проектов в приватных репозиториях, но некоторые работы открыты.
-- 👀 В основном работаю с Python3, Flask (microservices, API, jinja2, celery), Java, Linux, Bash, Networks, PostgreSQL, Redis, NGINX, Git (GitHub Flow, Semantic Versioning, Conventional Commits, etc.), Github Actions, Docker.
-- 🌱 В качестве облаков - AWS, GCP, Selectel/VScale, а под простой сайт - Cloudflare Pages (бесплатно и быстро).
-- 📫 Для связи можно использовать электронную почту: tyo3436@gmail.com
-- 💪 Всем крепкого здоровья и удачи!
+- Web Development: My proficiency lies in creating interactive and responsive web experiences using HTML/CSS/JS, Bootstrap, jQuery, and Svelte.js.
+-  Backend Mastery: With Python and Flask, I architect robust microservices and expansive applications, leveraging Jinja2, Celery, and sophisticated API development.
+- System Operations: I command Linux environments (Debian/Ubuntu) with finesse, employing Bash scripting to elevate automation and system efficiency.
+- Data Management: I'm adept at orchestrating data flows and storage with PostgreSQL and Redis, adapting to various data-intensive scenarios with Clickhouse, Apache Cassandra, ScyllaDB, and more.
+- Web Server Expertise: Specializing in configuring and fine-tuning NGINX to bolster scalable and resilient web applications.
+- Version Control: I employ advanced Git techniques, incorporating GitHub Flow, Semantic Versioning, and Conventional Commits to maintain clarity and organization in collaborative projects.
+- Continuous Integration: My workflow is streamlined with tools like Github Actions, GitLab CI, Docker, Kubernetes (K8S), and Ansible, ensuring smooth, continuous deployment and operation.
 
-P.S. Если вы не видите активности здесь, то скорее всего я работаю с приватным хостингом на GitLab или BitBucket.
+📬 Reach Out: Should you wish to connect or collaborate, feel free to contact me at contact@art610.ru.
 
-Некоторые из выполненных работ и направлений представлены [здесь](./completed.md)
+🌟 Wishing Everyone Robust Health and Success! Your support and goodwill mean the world to me.
+
+P.S. My development activities often extend beyond this account, contributing to private repositories on GitLab or BitBucket. While I value transparency, some projects demand confidentiality. Thank you for understanding.
