@@ -12,6 +12,8 @@
 - Securing: CSRF, XSS, CORS;
 - Translating business requirements into software solutions.
 
+> 5 years: Python, Flask, PostgreSQL, Redis, Celery [on back], HTML, CSS+Bootstrap, JS+jQuery [on front], and servers with Ubuntu+NGINX+UWSGI for deploy.
+
 📬 Feel free to contact me at contact@art610.ru
 
 🌟 Wishing Everyone Robust Health and Success!
