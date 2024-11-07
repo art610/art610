@@ -44,12 +44,8 @@
 - 5+ years of experience in Python, Flask, PostgreSQL, Redis, Celery (on the backend), HTML, CSS+Bootstrap, JS+jQuery (on the frontend), and server deployment using Ubuntu+NGINX+uWSGI
 - 2+ years of experience in 2-tier architecture with JS/TS, Axios, Tailwind CSS, Svelte or React (on the frontend), and Flask-RESTX or FastAPI (on the backend)
 
-5 years+: Python, Flask, PostgreSQL, Redis, Celery [on back], HTML, CSS+Bootstrap, JS+jQuery [on front], and servers with Ubuntu+NGINX+UWSGI for deploy.
+---
 
-1 year+: 2-tier Arch with JS/TS, Axios, TailwindCSS with Svelte [on front], Flask-RESTX or FastAPI [on back].
+📬 You can reach me at contact@art610.ru
 
-📬 Feel free to contact me at contact@art610.ru
-
-🌟 Wishing Everyone Robust Health and Success!
-
-P.S. My development activities often extend beyond this account, contributing to private repositories on GitLab. While I value transparency, some projects demand confidentiality (thx NDA). Thank you for understanding.
+P.S. My development work extends beyond this account, as I contribute to private repositories on GitLab/GitHub. While I aim for transparency, some projects require confidentiality due to NDAs. Thank you for your understanding.
